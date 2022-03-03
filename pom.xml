@@ -4,6 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.gunjan</groupId>
 	<artifactId>account-service</artifactId>
+	
+	<packaging>war</packaging>
 	<version>1.0</version>
 	<name>DemoAccountProject</name>
 	<properties>
